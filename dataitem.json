@@ -14,7 +14,16 @@
         "item" : "ล้อรถยนต์",
         "reason" : "ส่งออก",
         "tel" : "0875547345",
-        "supervisor" : "Chakrit Boonprasert",
+        "supervisor" : "Thitima Popila",
         "approveplant" : "Plant 2"
+    },
+    {
+        "startdate" : "2022-04-01",
+        "enddate" : "2022-04-15",
+        "item" : "ท่อ",
+        "reason" : "รอทำความสะอาด",
+        "tel" : "0894123752",
+        "supervisor" : "Chakrit Boonprasert",
+        "approveplant" : "All area"
     }
 ]
