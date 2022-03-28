@@ -6,7 +6,7 @@
         "reason" : "ชำรุด",
         "tel" : "0875547345",
         "supervisor" : "Thitima Popila",
-        "approveplant" : "Plant 1"
+        "approveplant" : "Plant 1",
     },
     {
         "startdate" : "2022-03-22",
@@ -15,7 +15,7 @@
         "reason" : "ส่งออก",
         "tel" : "0822174464",
         "supervisor" : "Chakrit Boonprasert",
-        "approveplant" : "Plant 2"
+        "approveplant" : "Plant 2",
     },
     {
         "startdate" : "2022-03-28",
@@ -24,6 +24,6 @@
         "reason" : "พื้นที่เต็ม",
         "tel" : "0980975958",
         "supervisor" : "Ponprapai Atsawanurak",
-        "approveplant" : "All Area"
-    },
+        "approveplant" : "All Area",
+    }
 ]
